@@ -1,8 +1,8 @@
 <h1 >  Hi! I'm Fran <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50px" /> </h1>
 
 [![Twitter: fransotodev](https://img.shields.io/twitter/follow/fransotodev?color=green&style=for-the-badge&logo=twitter)](https://twitter.com/fransotodev)
-[![Gmail Badge](https://img.shields.io/badge/-franciscomanuel.sotormairez@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:franciscomanuel.sotoramirez@gmail.com)
 [![Linkedin: Francisco Manuel Soto Ramírez](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-manuel-soto-ram%C3%ADrez-637779193/)
+[![Gmail Badge](https://img.shields.io/badge/-franciscomanuel.sotormairez@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:franciscomanuel.sotoramirez@gmail.com)
 
 I'm a Spanish software developer, graduated via University of Cádiz. I have worked some web development and blockchain! Feel free to check my repos. 💪
 
