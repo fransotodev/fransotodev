@@ -9,8 +9,6 @@ I'm a Spanish software developer, graduated via University of Cádiz. I have wor
 I'm really interested in the stack MERN for a full-stack javascript journey, as well as Ethereum's Blockchain 🟧🔗🟧
 
 
-
-### Stats
 [![fransotodev's github stats](https://github-readme-stats.vercel.app/api?username=fransotodev&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
